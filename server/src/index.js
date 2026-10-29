@@ -1,7 +1,5 @@
-import dotenv from 'dotenv';
-// Keep local Winning EA settings isolated from a PORT inherited from another app.
-// Production Plesk does not upload server/.env, so its managed PORT remains authoritative there.
-dotenv.config({ override: true });
+import 'dotenv/config';
+// In production, Plesk's managed PORT must remain authoritative over server/.env.
 import express from 'express';
 import helmet from 'helmet';
 import cors from 'cors';
