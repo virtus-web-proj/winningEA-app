@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-white font-sans text-slate-700 antialiased; }
+  h1, h2, h3 { @apply text-navy-900; }
+  :focus-visible { @apply outline outline-2 outline-offset-2 outline-brand; }
+}
+
+@layer components {
+  .container-gs { @apply mx-auto w-full max-w-6xl px-5 sm:px-8; }
+  .btn { @apply inline-flex items-center justify-center rounded-full px-8 py-3 font-bold text-white transition duration-200 disabled:cursor-not-allowed disabled:opacity-60; }
+  .btn-brand { @apply btn bg-brand shadow-[0_8px_24px_-8px_rgba(6,147,227,.8)] hover:-translate-y-0.5 hover:bg-brand-dark; }
+  .btn-navy { @apply btn rounded-md bg-navy-900 hover:bg-navy-700; }
+  .field { @apply w-full rounded-md border border-slate-300 bg-white px-4 py-3 text-slate-800 placeholder:text-slate-400 transition focus:border-brand focus:outline-none focus:ring-4 focus:ring-brand/15; }
+  .th { @apply bg-slate-600 px-3 py-3 text-center font-semibold text-white; }
+  .td { @apply border border-slate-300 px-3 py-3 text-center; }
+  .section-title { @apply text-center text-2xl font-bold text-navy-900 md:text-3xl; }
+}
+
+/* one-off hero entrance + candle animation (disabled for reduced motion) */
+@keyframes candle { 0%,100% { transform: scaleY(.82); } 50% { transform: scaleY(1.08); } }
+.candle { transform-origin: bottom; animation: candle var(--d, 4s) ease-in-out infinite; animation-delay: var(--delay, 0s); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

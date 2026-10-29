@@ -1,0 +1,565 @@
+{
+  "nav": {
+    "home": "Home",
+    "profile": "My Account",
+    "logout": "Log out",
+    "terms": "Terms",
+    "login": "Log in",
+    "register": "Sign up",
+    "menu": "Menu",
+    "language": "日本語",
+    "admin": "Admin"
+  },
+  "footer": {
+    "disclaimer": "Foreign exchange trading carries a high level of risk and is not suitable for all investors. Leverage creates additional risk and the possibility of loss. Before deciding to trade foreign exchange, carefully consider your investment objectives, level of experience and risk tolerance. You could lose some or all of your initial investment, so you should not invest money that you cannot afford to lose. Please consider the risks associated with foreign exchange trading, and seek advice from an independent financial or tax advisor if you have any doubts.",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "backToTop": "Back to top",
+    "loading": "Loading…",
+    "yen": "¥",
+    "taxIn": "(tax incl.)",
+    "send": "Send",
+    "sending": "Sending…",
+    "save": "Save",
+    "saving": "Saving…",
+    "cancel": "Cancel",
+    "contactCta": "Contact us"
+  },
+  "errors": {
+    "unauthorized": "Please log in to continue.",
+    "invalid_credentials": "The email address or password is incorrect.",
+    "email_invalid": "Please enter a valid email address.",
+    "profile_required": "Please complete all required profile fields.",
+    "profile_invalid": "Please enter a valid birth date.",
+    "email_mismatch": "Email addresses do not match.",
+    "recaptcha_required": "Please complete the reCAPTCHA check.",
+    "reset_invalid": "This password-reset link is invalid or expired.",
+    "recaptcha_unavailable": "reCAPTCHA is not configured. Please contact support.",
+    "email_taken": "This email address is already registered.",
+    "username_invalid": "Username must be 3–32 characters and use only letters, numbers, dots, underscores, or hyphens.",
+    "username_taken": "This username is already in use.",
+    "password_short": "Your password must be at least 8 characters.",
+    "name_required": "Please enter your name.",
+    "message_required": "Please enter your message.",
+    "terms_required": "You must agree to the Terms of Use.",
+    "avatar_invalid": "We couldn't read that image. Please try another one.",
+    "not_found": "Not found.",
+    "invalid_option": "The selected option is not valid.",
+    "network": "Connection failed. Please try again in a moment.",
+    "generic": "Something went wrong.",
+    "forbidden": "You do not have permission to do this.",
+    "account_suspended": "This account has been suspended. Please contact us.",
+    "has_orders": "Members with orders cannot be deleted. Suspend the account instead.",
+    "cannot_self": "You cannot change your own account here.",
+    "protected_account": "Admin and staff accounts cannot be changed here.",
+    "invalid_status": "Invalid status."
+  },
+  "home": {
+    "hero": {
+      "l1": "Automated trading, working for you",
+      "l2a": "MT4",
+      "l2b": " compatible",
+      "l3": "System trading software for sale",
+      "scroll": "Scroll for details"
+    },
+    "about": {
+      "title": "What is Winning EA?",
+      "p1": "Winning EA provides automated trading software developed by talented trading engineers.",
+      "p2": "There are countless system trading programs out there, from free to paid. We carefully select only the software with outstanding track records to introduce and sell.",
+      "p3": "Our software is selected for traders who want a clearer, more disciplined way to use MetaTrader 4. Explore each EA, review its embedded backtest, and choose the system that fits your strategy."
+    },
+    "what": {
+      "title": "What is system trading software?",
+      "p1": "System trading software is software that trades forex automatically.",
+      "p2": "Once it is running, it earns for you without taking up your own time.",
+      "p3": "To profit from forex, you normally have to read the movements of the market and trade on your own predictions. That can be difficult for beginners, but with automated trading the software makes the \"sell\" and \"buy\" decisions itself and operates according to fixed rules, so even people just starting out in forex can pursue profits."
+    },
+    "mt4": {
+      "title": "MetaTrader 4 must be installed to use automated trading software",
+      "body": "To run automated trading, MetaTrader 4 (MT4) must be installed on your computer or smartphone. MT4 is provided by each forex broker, so please download and install it from the website of the broker you use."
+    },
+    "products": {
+      "title": "Our one-of-a-kind software lineup",
+      "customTitle": "Customized Automatic Trading Tool",
+      "customDesc": "We provide a tool made for you that you can be fully satisfied with.",
+      "customNote": "Please register as a member to get started.",
+      "priceLabel": "Price",
+      "customPrice": "¥0 – 49,999",
+      "buy": "Buy now",
+      "pair": "Currency pair",
+      "timeframe": "Timeframe",
+      "pf": "Profit factor",
+      "win": "Win rate",
+      "from": "From {{price}}",
+      "details": "View details",
+      "backtest": "Backtest results"
+    },
+    "steps": {
+      "title": "How to start forex automated trading with MT4",
+      "items": [
+        {
+          "t": "Prepare a PC that runs MT4 24 hours a day",
+          "d": "To trade automatically with MT4, prepare a VPS (virtual PC) that can run around the clock."
+        },
+        {
+          "t": "Open an account with an MT4-compatible broker",
+          "d": "Many brokers in Japan and overseas support MT4. We introduce what to look for when choosing a broker and how to open an account on good terms."
+        },
+        {
+          "t": "Install MT4",
+          "d": "Once you have a PC to run MT4 and a forex account, install MT4."
+        },
+        {
+          "t": "Get the system trading software",
+          "d": "Purchase and download the software provided by Winning EA."
+        },
+        {
+          "t": "Set the software up in MT4",
+          "d": "After you get the software, set it up in MT4 and start automated trading."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact us",
+      "lead": "If you have any questions about the software, please feel free to get in touch."
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "lead": "If you have any questions about the software, please feel free to get in touch.",
+    "name": "Your name",
+    "email": "Email address",
+    "message": "Your message",
+    "done": "Thank you. We have received your message and our team will get back to you."
+  },
+  "custom": {
+    "title": "Customized Automatic Trading Tool",
+    "heading": "About purchasing the software",
+    "body1": "If you would like to purchase the Customized Automatic Trading Tool, please contact us through the contact form.",
+    "body2": "A member of our support team will reply to you."
+  },
+  "product": {
+    "provider": "System provider: Winning EA",
+    "spec": {
+      "pair": "Currency pair",
+      "timeframe": "Timeframe",
+      "win": "Win rate",
+      "dd": "Max drawdown",
+      "pf": "Profit factor",
+      "payoff": "Payoff ratio",
+      "pips": "Total pips gained"
+    },
+    "tf": {
+      "5": "5-minute",
+      "15": "15-minute",
+      "30": "30-minute",
+      "60": "1-hour"
+    },
+    "backtest": "Backtest results",
+    "backtestMissing": "The backtest report is being prepared.",
+    "backtestOpen": "Open in a new window",
+    "buyTitle": "Purchasing the software",
+    "price": "Price",
+    "bankOnly": "Payment is by bank transfer only",
+    "optionCol": "Option",
+    "useCol": "Add",
+    "pay": "Total to pay",
+    "buy": "Buy now",
+    "buying": "Processing…",
+    "optionsTitle": "About the options",
+    "optionsLead": "We also offer optional services for customers who are unsure how to use the software or don't have an environment to run it in.",
+    "optionsHead": {
+      "option": "Option",
+      "content": "Details",
+      "price": "Price"
+    },
+    "opt": {
+      "chat3": {
+        "name": "Support chat ×3",
+        "desc": "We answer your questions about using the software, up to 3 times by chat."
+      },
+      "chat10": {
+        "name": "Support chat ×10",
+        "desc": "We answer your questions about using the software, up to 10 times by chat."
+      },
+      "upgrade": {
+        "name": "Software upgrade",
+        "desc": "Use the software in its latest version."
+      },
+      "vps": {
+        "name": "High-spec VPS",
+        "desc": "We provide a PC (virtual environment) that trades automatically 24 hours a day."
+      }
+    },
+    "items": {
+      "ultimate-trader": {
+        "name": "Ultimate Trader",
+        "desc": "A 1-hour Winning EA built for the USD/JPY pair. Its indicators are highly capable, plotting pullback levels and target rates on the chart. A high-reward, low-risk style with a win rate above 90% sharpens entry accuracy while profits accumulate."
+      },
+      "fx-sniper": {
+        "name": "FX Sniper",
+        "desc": "A 15-minute Winning EA for the EUR/JPY pair using the trap-repeat method adopted by many large players. It steadily grows profit from long- and short-term moving averages. It judges the trend before entering and has no time-of-day restrictions, running 24 hours a day. Stop-loss and take-profit can be set as you like, so you are covered for the unexpected."
+      },
+      "silver-fox": {
+        "name": "Silver Fox",
+        "desc": "A 30-minute Winning EA for the NZD/JPY pair. It reads the trend with moving averages and takes positions in the direction of the Bollinger Bands. In an uptrend it builds profit steadily, like saving a little at a time; when the trend reverses downward, it averages down patiently while building swap income."
+      },
+      "infinity-z": {
+        "name": "Infinity Z",
+        "desc": "A Winning EA that steadily accumulates profit with optimal trades on the EUR/USD pair. It trades with its own method, based on rules with a statistical edge found in historical data. Automatic exit avoids stop hunting while letting profits run."
+      },
+      "scalping-master": {
+        "name": "Scalping Master",
+        "desc": "A Winning EA built on a long- and short-term trend-following strategy for USD/JPY, the most popular pair among traders. It stacks up profit through a high number of trades, and its results are supported by verification against past backtest data."
+      },
+      "gold-rush-system": {
+        "name": "Gold Rush System Ver.2.0",
+        "desc": "A 5-minute Winning EA specialised for the EUR/JPY pair. The logic of the previous gold rush system has been reviewed and optimised for current market conditions. It uses the basic scalping technique of following the longer trend while aiming for short-term pullbacks."
+      }
+    }
+  },
+  "buy": {
+    "heading": "About purchasing the software",
+    "pay": "Total to pay",
+    "l1": "Payment is by bank transfer",
+    "l2": "After signing up, please transfer to the account on the right",
+    "l3": "Please add your member number to the end of the account holder name",
+    "example": "e.g. YAMADA TARO {{memberNo}}",
+    "bankTitle": "Bank transfer details",
+    "bankName": "Bank",
+    "branch": "Branch",
+    "type": "Account type",
+    "number": "Account number",
+    "holder": "Account holder",
+    "afterTitle": "After your purchase",
+    "after1": "Once we confirm your transfer, our support team will email you a download link.",
+    "after2": "Please download the software from that link.",
+    "after3": "* If you do not receive an email after your transfer, please contact us through the contact form.",
+    "orderNo": "Order no."
+  },
+  "profile": {
+    "title": "My Account",
+    "memberNo": "Member No.",
+    "edit": "Edit your details",
+    "password": "Change password",
+    "name": "Name",
+    "email": "Email address",
+    "customerInfo": "Customer information",
+    "addressInfo": "Address and contact information",
+    "financeInfo": "Financial status and investment experience",
+    "familyName": "Family name",
+    "givenName": "Given name",
+    "familyKana": "Family name (kana)",
+    "givenKana": "Given name (kana)",
+    "birthDate": "Date of birth",
+    "year": "Year",
+    "month": "Month",
+    "day": "Day",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "emailConfirm": "Confirm email address",
+    "postalCode": "Postal code",
+    "prefecture": "Prefecture",
+    "city": "City",
+    "addressLine": "Street address",
+    "building": "Building / room",
+    "phone": "Phone number",
+    "occupation": "Occupation",
+    "income": "Annual income",
+    "investmentPurpose": "Investment purpose",
+    "fxExperience": "FX investment experience",
+    "select": "Please select",
+    "termsAgree": "I agree to the Terms of Use",
+    "submit": "Update registration details",
+    "avatar": "Profile picture",
+    "avatarPick": "Choose image",
+    "avatarRemove": "Remove image",
+    "saved": "Saved.",
+    "current": "Current password",
+    "new": "New password",
+    "pwSaved": "Your password has been changed.",
+    "back": "Back"
+    ,"options": {
+      "occupation": { "publicServant": "Public servant", "executive": "Executive / officer", "employee": "Company employee", "selfEmployed": "Self-employed", "homemaker": "Homemaker", "partTime": "Part-time worker", "student": "Student", "other": "Other" },
+      "income": { "under400": "Under ¥4 million", "400to600": "¥4–6 million", "600to1000": "¥6–10 million", "over1000": "¥10 million or more" },
+      "purpose": { "assetBuilding": "Building future assets", "profitFocus": "Focus on trading profit", "other": "Other" },
+      "fx": { "under6m": "Less than 6 months", "under1y": "Less than 1 year", "oneTo3y": "1–3 years", "over3y": "3 years or more", "none": "None" }
+    }
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "registerTitle": "Sign up",
+    "email": "Email address",
+    "username": "Username",
+    "password": "Password",
+    "passwordHint": "At least 8 characters",
+    "name": "Name",
+    "login": "Log in",
+    "register": "Create account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already a member?",
+    "goRegister": "Sign up",
+    "goLogin": "Log in",
+    "agree": "I agree to the Terms of Use and confirm that I am 18 or older.",
+    "agreeLink": "Read the Terms of Use",
+    "loginRequired": "Please log in to do this.",
+    "identifier": "Email or username",
+    "forgotPassword": "Forgot your password?",
+    "resetTitle": "Reset your password",
+    "forgotLead": "Enter your registered email address and we will send you a password-reset link.",
+    "resetLead": "Enter a new password for your account.",
+    "newPassword": "New password (8 characters minimum)",
+    "sendReset": "Send reset link",
+    "resetSubmit": "Change password",
+    "resetSent": "We sent a password-reset link to your email address.",
+    "resetDone": "Your password has been changed. Please log in."
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "articles": [
+      {
+        "h": "Article 1 (Definitions)",
+        "lead": "The terms used in these Terms have the following meanings.",
+        "list": [
+          "\"the Service\" means Winning EA.",
+          "\"Member\" means an individual or corporation that has registered after agreeing to these Terms, has been admitted by the Company, and is able to receive the Service.",
+          "A person who uses the Service (a person intending to purchase, or a purchaser) is referred to below as a \"User\"."
+        ]
+      },
+      {
+        "h": "Article 2 (Registration)",
+        "lead": "A person wishing to join the Service applies for membership by entering the required information in the registration form within the Service and sending it to the Company."
+      },
+      {
+        "h": "Article 3 (Agreement)",
+        "lead": "A person wishing to join the Service registers after agreeing to these Terms. A person who registers for and uses the Service is deemed to have agreed to these Terms, and this agreement is deemed to have been concluded."
+      },
+      {
+        "h": "Article 4 (Conditions of Membership)",
+        "lead": "The Company may refuse admission if an applicant falls under any of the following. Even after admission, if a Member is found to fall under any of the following, the Company may suspend or revoke membership.",
+        "list": [
+          "The applicant is under 18 years of age.",
+          "The applicant does not exist.",
+          "The registration information contains falsehoods, errors, omissions or input mistakes.",
+          "The application is made using another person's or fictitious personal information.",
+          "The applicant is, or is associated with, an organized crime group or other antisocial force.",
+          "At the time of application the applicant is suspended for violating these Terms, or has previously had membership revoked for a violation.",
+          "The Company otherwise judges the applicant to be unsuitable."
+        ]
+      },
+      {
+        "h": "Article 5 (Prohibited Acts)",
+        "lead": "The Company prohibits the following acts, or acts likely to amount to them, by Members.",
+        "list": [
+          "Acts contrary to public order and morals",
+          "Acts connected to criminal activity",
+          "Acts that violate laws and regulations",
+          "Acts that infringe the copyright or other intellectual property rights of the Company, other Members or third parties",
+          "Acts that infringe the property, privacy or similar interests of the Company, other Members or third parties",
+          "Acts that cause disadvantage to the Company, other Members or third parties",
+          "Acts that defame or slander the Company, other Members or third parties",
+          "Acts that obstruct the operation of the Company's site or damage the Company's credibility",
+          "Sending or posting harmful computer programs or similar",
+          "Unauthorized use of an ID or password",
+          "Any other act that the Company finds inappropriate"
+        ]
+      },
+      {
+        "h": "Article 6 (No Transfer of Rights and Obligations)",
+        "list": [
+          "Selling, lending or transferring a Member ID issued by the Service to a third party is prohibited.",
+          "The Company bears no responsibility for any damage or liability to sellers (transferors and transferees) or third parties.",
+          "If a dispute arises between a Member and a third party, the Member and the third party shall resolve it between themselves."
+        ]
+      },
+      {
+        "h": "Article 7 (Password Management)",
+        "list": [
+          "A password issued to a Member by the Service must not be transferred, disclosed or leaked to any third party, and must be managed with the utmost care.",
+          "The User bears the responsibility for any damage arising from inadequate password management, errors in use, or use by a third party."
+        ]
+      },
+      {
+        "h": "Article 8 (Changes to Registered Information)",
+        "list": [
+          "If the information a Member has provided to the Company changes, the Member shall promptly notify the Company (by updating the registered information in the account page).",
+          "The Service has no obligation to make changes on behalf of the Member.",
+          "If you forget your password, please use the Service's contact form."
+        ]
+      },
+      {
+        "h": "Article 9 (Handling of Personal Information)",
+        "list": [
+          "When the Service obtains a User's personal information in the course of operation, it uses that information only for the purposes to which the User has agreed in advance, and does not use it for any other purpose without the User's prior consent. The Service will also manage and use personal information with care so as not to harm the User's interests.",
+          "The Service will not disclose or provide personal information to a third party without the User's consent, except in the following cases."
+        ],
+        "sub": [
+          "(1) For identity verification of Members and for communications necessary to provide the Service.",
+          "(2) Where required by law.",
+          "(3) Where providing the information is deemed appropriate to protect the life, body or property of the public.",
+          "(4) Other cases where disclosure or provision is deemed reasonable under generally accepted social standards."
+        ]
+      },
+      {
+        "h": "Article 10 (Contract Period)",
+        "lead": "The contract period under these Terms is one year from the date the contract is formed under Article 3. Unless either party gives notice of termination at least one month before expiry, the contract is automatically renewed for a further year, and likewise thereafter."
+      },
+      {
+        "h": "Article 11 (Termination)",
+        "lead": "If the Company determines that any of the following applies, it may terminate this contract even during the contract period. The Company is not required to explain the grounds for termination.",
+        "list": [
+          "A violation of these Terms.",
+          "Registration as a non-existent user is discovered.",
+          "An act that obstructs the Company's business, whether intentional or negligent.",
+          "An infringement of intellectual property rights such as copyright, personality rights such as portrait rights, or other legally protected rights, or an act that violates related laws and regulations.",
+          "Antisocial acts, illegal acts, and acts the Company prohibits from time to time.",
+          "Making demands beyond the scope of the Company's services."
+        ]
+      },
+      {
+        "h": "Article 12 (Cancellations, Returns and Refunds)",
+        "list": [
+          "Because the Service is a download service, no cancellation, return, refund or exchange is accepted for any reason once payment is completed. If a product is damaged or defective, we will replace it. Downloads can also be made at any time from your My Page.",
+          "No refund can be made for any loss incurred when a purchaser trades using the product. All use is at the User's own judgment and responsibility. Past performance does not necessarily indicate future results."
+        ]
+      },
+      {
+        "h": "Article 13 (Disclaimer)",
+        "list": [
+          "The Service bears no responsibility whatsoever for damage arising from a User's use of, or inability to use, the Service, regardless of the cause.",
+          "The Winning EA software provided through the Service is to be used responsibly at the Member's own judgment. The User bears responsibility for any damage actually caused by using the product and for all trading results.",
+          "Using Winning EA software downloaded through the Service to distribute signals, or to trade through copy tools or similar on any account other than your designated account, is strictly prohibited."
+        ]
+      },
+      {
+        "h": "Article 14 (Withdrawal)",
+        "lead": "To withdraw, apply through the Service's contact form. We will process the withdrawal within one week of receiving your request."
+      },
+      {
+        "h": "Article 15 (Suspension of the Service)",
+        "list": [
+          "If the Company determines that any of the following applies, it may suspend or interrupt all or part of the Service without prior notice to Members.",
+          "The Company bears no responsibility, for any reason, for any disadvantage or damage suffered by Users or third parties as a result of suspension or interruption of the Service."
+        ],
+        "sub": [
+          "(1) When performing maintenance or updates on the computer systems used for the Service.",
+          "(2) When provision of the Service becomes difficult due to force majeure such as earthquake, lightning, fire, power outage or natural disaster.",
+          "(3) When computers or communication lines stop due to an accident."
+        ],
+        "subAt": 0
+      },
+      {
+        "h": "Article 16 (Notices and Communications)",
+        "lead": "Notices and communications between Members and the Service shall be made by the methods determined by the Company."
+      },
+      {
+        "h": "Article 17 (Compensation for Damages)",
+        "list": [
+          "If a Member causes damage to the Company's affiliates, other Members or third parties through use of the Service, the Member shall resolve it at their own responsibility and expense and shall not cause damage to the Company.",
+          "If a Member causes damage to the Company or its affiliates through an act in violation of these Terms, or through a fraudulent or illegal act, the Company may claim compensation for that damage from the Member."
+        ]
+      },
+      {
+        "h": "Article 18 (Exclusive Jurisdiction)",
+        "lead": "If litigation becomes necessary between the Company and a Member, the court designated by the Company shall be the court of exclusive agreed jurisdiction."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you are looking for doesn't exist or may have moved.",
+    "home": "Back to home"
+  },
+  "admin": {
+    "title": "Admin",
+    "nav": {
+      "dashboard": "Overview",
+      "users": "Members",
+      "orders": "Orders",
+      "messages": "Messages"
+    },
+    "pager": {
+      "prev": "Previous",
+      "next": "Next",
+      "of": "{{from}}–{{to}} of {{total}}"
+    },
+    "dash": {
+      "members": "Members",
+      "suspended": "Suspended members",
+      "pending": "Orders awaiting payment",
+      "paid": "Paid orders",
+      "messages": "Unhandled messages",
+      "go": "Open"
+    },
+    "users": {
+      "search": "Search by name, email or member no.",
+      "all": "All",
+      "active": "Active",
+      "suspended": "Suspended",
+      "export": "Export CSV",
+      "colNo": "Member No.",
+      "colName": "Name",
+      "colEmail": "Email",
+      "colJoined": "Joined",
+      "colStatus": "Status",
+      "colOrders": "Orders",
+      "edit": "Edit",
+      "suspend": "Suspend",
+      "reactivate": "Reactivate",
+      "resetPw": "Issue temporary password",
+      "delete": "Delete",
+      "save": "Save",
+      "close": "Close",
+      "none": "No matching members.",
+      "role": {
+        "admin": "Admin",
+        "staff": "Staff",
+        "member": "Member"
+      },
+      "confirmSuspend": "Suspend {{name}} ({{no}})? They will no longer be able to log in.",
+      "confirmReactivate": "Reactivate {{name}} ({{no}})?",
+      "confirmDelete": "Permanently delete {{name}} ({{no}})? This cannot be undone.",
+      "confirmReset": "Issue a temporary password for {{name}} ({{no}})? Their current password will stop working.",
+      "tempTitle": "Temporary password (shown only here)",
+      "tempHelp": "Pass it to the member through a secure channel. They can change it from \"Change password\".",
+      "copy": "Copy",
+      "copied": "Copied",
+      "readOnly": "Read-only"
+    },
+    "orders": {
+      "search": "Search by member no., name, email or order no.",
+      "all": "All",
+      "colId": "Order",
+      "colDate": "Ordered",
+      "colMember": "Member",
+      "colProduct": "Product",
+      "colOptions": "Options",
+      "colTotal": "Total",
+      "colStatus": "Status",
+      "status": {
+        "awaiting_payment": "Awaiting payment",
+        "paid": "Payment confirmed",
+        "cancelled": "Cancelled"
+      },
+      "markPaid": "Mark payment confirmed",
+      "cancel": "Cancel",
+      "reopen": "Back to awaiting payment",
+      "none": "No matching orders.",
+      "confirmPaid": "Mark order #{{id}} (member {{no}}, {{total}}) as payment confirmed?",
+      "confirmCancel": "Cancel order #{{id}}?",
+      "paidAt": "Paid"
+    },
+    "messages": {
+      "all": "All",
+      "new": "Unhandled",
+      "handled": "Handled",
+      "markHandled": "Mark handled",
+      "markNew": "Mark unhandled",
+      "member": "Member No.",
+      "none": "No messages.",
+      "reply": "Reply by email"
+    }
+  }
+}

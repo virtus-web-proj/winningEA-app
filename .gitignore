@@ -1,0 +1,9 @@
+node_modules
+client/dist
+server/data
+server/.env
+client/.env
+
+# Sensitive migration/export files
+server/users.csv
+server/*.csv
